@@ -1,0 +1,15 @@
+J:\2360-code-examples\WeekTwo\WeekTwo\bin\Debug\net9.0\WeekTwo.exe
+J:\2360-code-examples\WeekTwo\WeekTwo\bin\Debug\net9.0\WeekTwo.deps.json
+J:\2360-code-examples\WeekTwo\WeekTwo\bin\Debug\net9.0\WeekTwo.runtimeconfig.json
+J:\2360-code-examples\WeekTwo\WeekTwo\bin\Debug\net9.0\WeekTwo.dll
+J:\2360-code-examples\WeekTwo\WeekTwo\bin\Debug\net9.0\WeekTwo.pdb
+J:\2360-code-examples\WeekTwo\WeekTwo\obj\Debug\net9.0\WeekTwo.GeneratedMSBuildEditorConfig.editorconfig
+J:\2360-code-examples\WeekTwo\WeekTwo\obj\Debug\net9.0\WeekTwo.AssemblyInfoInputs.cache
+J:\2360-code-examples\WeekTwo\WeekTwo\obj\Debug\net9.0\WeekTwo.AssemblyInfo.cs
+J:\2360-code-examples\WeekTwo\WeekTwo\obj\Debug\net9.0\WeekTwo.csproj.CoreCompileInputs.cache
+J:\2360-code-examples\WeekTwo\WeekTwo\obj\Debug\net9.0\WeekTwo.sourcelink.json
+J:\2360-code-examples\WeekTwo\WeekTwo\obj\Debug\net9.0\WeekTwo.dll
+J:\2360-code-examples\WeekTwo\WeekTwo\obj\Debug\net9.0\refint\WeekTwo.dll
+J:\2360-code-examples\WeekTwo\WeekTwo\obj\Debug\net9.0\WeekTwo.pdb
+J:\2360-code-examples\WeekTwo\WeekTwo\obj\Debug\net9.0\WeekTwo.genruntimeconfig.cache
+J:\2360-code-examples\WeekTwo\WeekTwo\obj\Debug\net9.0\ref\WeekTwo.dll

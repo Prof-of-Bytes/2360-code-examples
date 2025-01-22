@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\2360-code-examples\\WeekOne\\WeekOne.csproj": {}
+    "j:\\2360-code-examples\\WeekTwo\\WeekTwo\\WeekTwo.csproj": {}
   },
   "projects": {
-    "J:\\2360-code-examples\\WeekOne\\WeekOne.csproj": {
+    "j:\\2360-code-examples\\WeekTwo\\WeekTwo\\WeekTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\2360-code-examples\\WeekOne\\WeekOne.csproj",
-        "projectName": "WeekOne",
-        "projectPath": "J:\\2360-code-examples\\WeekOne\\WeekOne.csproj",
+        "projectUniqueName": "j:\\2360-code-examples\\WeekTwo\\WeekTwo\\WeekTwo.csproj",
+        "projectName": "WeekTwo",
+        "projectPath": "j:\\2360-code-examples\\WeekTwo\\WeekTwo\\WeekTwo.csproj",
         "packagesPath": "J:\\NuGet",
-        "outputPath": "J:\\2360-code-examples\\WeekOne\\obj\\",
+        "outputPath": "j:\\2360-code-examples\\WeekTwo\\WeekTwo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vernon.james\\AppData\\Roaming\\NuGet\\NuGet.Config",
